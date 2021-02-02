@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
      <link rel="stylesheet" href="me.css">
@@ -57,7 +57,7 @@ body {
 
 
         </div>
-    </div>
+
 
 
 </main>
